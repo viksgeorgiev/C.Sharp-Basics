@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C405BB7-3ED0-4388-9F0E-C3EA5A18A18B}|06.BasketballTournament\\06.BasketballTournament.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\06.basketballtournament\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C405BB7-3ED0-4388-9F0E-C3EA5A18A18B}|06.BasketballTournament\\06.BasketballTournament.csproj|solutionrelative:06.basketballtournament\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE6922C-92C7-4CB5-A3D8-289B250BD442}|05.FitnessCenter\\05.FitnessCenter.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\05.fitnesscenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE6922C-92C7-4CB5-A3D8-289B250BD442}|05.FitnessCenter\\05.FitnessCenter.csproj|solutionrelative:05.fitnesscenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A47A08-5CB7-4245-AD84-3945D594E98E}|04.Darts\\04.Darts.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\04.darts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A47A08-5CB7-4245-AD84-3945D594E98E}|04.Darts\\04.Darts.csproj|solutionrelative:04.darts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A7A2E0-223D-4897-822F-5C350A0CCDA7}|03.WorldSnookerChampionship\\03.WorldSnookerChampionship.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\03.worldsnookerchampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A7A2E0-223D-4897-822F-5C350A0CCDA7}|03.WorldSnookerChampionship\\03.WorldSnookerChampionship.csproj|solutionrelative:03.worldsnookerchampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F849E5-B2B3-4C79-B3AC-FC7CEAAC3F6E}|02.Skeleton\\02.Skeleton.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\02.skeleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F849E5-B2B3-4C79-B3AC-FC7CEAAC3F6E}|02.Skeleton\\02.Skeleton.csproj|solutionrelative:02.skeleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86246124-B88A-46A2-897D-4622D484445A}|01.BasketballEquipment\\01.BasketballEquipment.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\01.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86246124-B88A-46A2-897D-4622D484445A}|01.BasketballEquipment\\01.BasketballEquipment.csproj|solutionrelative:01.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD10FD6-31EC-45D5-823F-EB8B135004C0}|06.HighJump\\06.HighJump.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\06.highjump\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD10FD6-31EC-45D5-823F-EB8B135004C0}|06.HighJump\\06.HighJump.csproj|solutionrelative:06.highjump\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E467866C-2646-4C4A-A7C8-13B0DDA24D1B}|05.TennisRanklist\\05.TennisRanklist.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\05.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E467866C-2646-4C4A-A7C8-13B0DDA24D1B}|05.TennisRanklist\\05.TennisRanklist.csproj|solutionrelative:05.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104542FD-E234-4702-B097-673470A880CC}|04.GameNumberWars\\04.GameNumberWars.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\04.gamenumberwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104542FD-E234-4702-B097-673470A880CC}|04.GameNumberWars\\04.GameNumberWars.csproj|solutionrelative:04.gamenumberwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F6B664-6DFE-4128-AE47-E25BE7CDFC06}|03.Gymnastics\\03.Gymnastics.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\03.gymnastics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F6B664-6DFE-4128-AE47-E25BE7CDFC06}|03.Gymnastics\\03.Gymnastics.csproj|solutionrelative:03.gymnastics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311F2CDD-EA11-4395-86AA-4A931816C769}|02.FootballResults\\02.FootballResults.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\02.footballresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311F2CDD-EA11-4395-86AA-4A931816C769}|02.FootballResults\\02.FootballResults.csproj|solutionrelative:02.footballresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8FDD02-54FA-42E6-A67F-9E7358B7FE01}|01. Tennis Equipment\\01. Tennis Equipment.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.programmingbasicsonlineexampleexam1\\01. tennis equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8FDD02-54FA-42E6-A67F-9E7358B7FE01}|01. Tennis Equipment\\01. Tennis Equipment.csproj|solutionrelative:01. tennis equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\06.BasketballTournament\\Program.cs",
+              "RelativeDocumentMoniker": "06.BasketballTournament\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\06.BasketballTournament\\Program.cs",
+              "RelativeToolTip": "06.BasketballTournament\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:06:34.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\05.FitnessCenter\\Program.cs",
+              "RelativeDocumentMoniker": "05.FitnessCenter\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\05.FitnessCenter\\Program.cs",
+              "RelativeToolTip": "05.FitnessCenter\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:44:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\04.Darts\\Program.cs",
+              "RelativeDocumentMoniker": "04.Darts\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\04.Darts\\Program.cs",
+              "RelativeToolTip": "04.Darts\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:19:18.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\03.WorldSnookerChampionship\\Program.cs",
+              "RelativeDocumentMoniker": "03.WorldSnookerChampionship\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\03.WorldSnookerChampionship\\Program.cs",
+              "RelativeToolTip": "03.WorldSnookerChampionship\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwDwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:02:56.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\02.Skeleton\\Program.cs",
+              "RelativeDocumentMoniker": "02.Skeleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\02.Skeleton\\Program.cs",
+              "RelativeToolTip": "02.Skeleton\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:45:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\01.BasketballEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "01.BasketballEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\01.BasketballEquipment\\Program.cs",
+              "RelativeToolTip": "01.BasketballEquipment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:33:32.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\06.HighJump\\Program.cs",
+              "RelativeDocumentMoniker": "06.HighJump\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\06.HighJump\\Program.cs",
+              "RelativeToolTip": "06.HighJump\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:29:57.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\05.TennisRanklist\\Program.cs",
+              "RelativeDocumentMoniker": "05.TennisRanklist\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\05.TennisRanklist\\Program.cs",
+              "RelativeToolTip": "05.TennisRanklist\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:16:59.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\04.GameNumberWars\\Program.cs",
+              "RelativeDocumentMoniker": "04.GameNumberWars\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\04.GameNumberWars\\Program.cs",
+              "RelativeToolTip": "04.GameNumberWars\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:42:54.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\03.Gymnastics\\Program.cs",
+              "RelativeDocumentMoniker": "03.Gymnastics\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\03.Gymnastics\\Program.cs",
+              "RelativeToolTip": "03.Gymnastics\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:49:50.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\02.FootballResults\\Program.cs",
+              "RelativeDocumentMoniker": "02.FootballResults\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\02.FootballResults\\Program.cs",
+              "RelativeToolTip": "02.FootballResults\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwDEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:34:28.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\01. Tennis Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "01. Tennis Equipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.ProgrammingBasicsOnlineExampleExam1\\01. Tennis Equipment\\Program.cs",
+              "RelativeToolTip": "01. Tennis Equipment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:08:04.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

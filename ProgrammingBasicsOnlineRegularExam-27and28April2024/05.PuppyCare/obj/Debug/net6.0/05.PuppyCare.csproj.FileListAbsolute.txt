@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\bin\Debug\net6.0\05.PuppyCare.exe
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\bin\Debug\net6.0\05.PuppyCare.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\bin\Debug\net6.0\05.PuppyCare.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\bin\Debug\net6.0\05.PuppyCare.dll
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\bin\Debug\net6.0\05.PuppyCare.pdb
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\05.PuppyCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\05.PuppyCare.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\05.PuppyCare.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\05.PuppyCare.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\05.PuppyCare.dll
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\refint\05.PuppyCare.dll
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\05.PuppyCare.pdb
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\05.PuppyCare.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\05.PuppyCare\obj\Debug\net6.0\ref\05.PuppyCare.dll

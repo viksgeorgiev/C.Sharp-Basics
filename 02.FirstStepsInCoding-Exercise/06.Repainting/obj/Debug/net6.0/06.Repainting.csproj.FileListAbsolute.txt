@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.exe
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.pdb
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\refint\06.Repainting.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.pdb
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\ref\06.Repainting.dll

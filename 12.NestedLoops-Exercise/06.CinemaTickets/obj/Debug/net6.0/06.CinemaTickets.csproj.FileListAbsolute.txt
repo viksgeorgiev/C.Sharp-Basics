@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.exe
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.dll
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\net6.0\06.CinemaTickets.pdb
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.dll
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\refint\06.CinemaTickets.dll
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.pdb
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\06.CinemaTickets.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\net6.0\ref\06.CinemaTickets.dll

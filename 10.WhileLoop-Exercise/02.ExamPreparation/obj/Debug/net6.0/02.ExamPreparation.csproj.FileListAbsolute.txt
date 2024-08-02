@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\net6.0\02.ExamPreparation.exe
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\net6.0\02.ExamPreparation.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\net6.0\02.ExamPreparation.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\net6.0\02.ExamPreparation.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\net6.0\02.ExamPreparation.pdb
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\02.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\02.ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\02.ExamPreparation.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\02.ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\02.ExamPreparation.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\refint\02.ExamPreparation.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\02.ExamPreparation.pdb
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\02.ExamPreparation.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\net6.0\ref\02.ExamPreparation.dll

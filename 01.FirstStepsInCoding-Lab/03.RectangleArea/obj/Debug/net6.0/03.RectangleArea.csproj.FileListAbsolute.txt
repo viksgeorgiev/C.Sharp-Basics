@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.exe
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\refint\03.RectangleArea.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\ref\03.RectangleArea.dll

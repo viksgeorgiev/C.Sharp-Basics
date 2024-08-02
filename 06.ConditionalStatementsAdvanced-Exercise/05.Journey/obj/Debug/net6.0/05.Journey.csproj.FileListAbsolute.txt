@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.exe
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.pdb
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\refint\05.Journey.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.pdb
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\ref\05.Journey.dll

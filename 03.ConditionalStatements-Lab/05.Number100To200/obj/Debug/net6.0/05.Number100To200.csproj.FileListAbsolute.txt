@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.exe
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\bin\Debug\net6.0\05.Number100To200.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\refint\05.Number100To200.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\05.Number100To200.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ConditionalStatements-Lab\05.Number100To200\obj\Debug\net6.0\ref\05.Number100To200.dll

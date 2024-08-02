@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.exe
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.dll
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net6.0\06.NumberInRange.pdb
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.dll
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\refint\06.NumberInRange.dll
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.pdb
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\06.NumberInRange.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net6.0\ref\06.NumberInRange.dll

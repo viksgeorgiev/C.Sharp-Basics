@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\bin\Debug\net6.0\02.CatWalking.exe
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\bin\Debug\net6.0\02.CatWalking.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\bin\Debug\net6.0\02.CatWalking.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\bin\Debug\net6.0\02.CatWalking.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\bin\Debug\net6.0\02.CatWalking.pdb
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\02.CatWalking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\02.CatWalking.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\02.CatWalking.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\02.CatWalking.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\02.CatWalking.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\refint\02.CatWalking.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\02.CatWalking.pdb
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\02.CatWalking.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\02.CatWalking\obj\Debug\net6.0\ref\02.CatWalking.dll

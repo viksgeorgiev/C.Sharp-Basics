@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.exe
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\refint\01.BasketballEquipment.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\01.BasketballEquipment\obj\Debug\net6.0\ref\01.BasketballEquipment.dll

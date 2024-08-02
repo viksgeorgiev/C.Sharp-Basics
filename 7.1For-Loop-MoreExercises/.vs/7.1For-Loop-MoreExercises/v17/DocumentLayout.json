@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5BF6EC-8933-4C0B-A556-4E337A2AB1EC}|08.EqualPairs\\08.EqualPairs.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\7.1for-loop-moreexercises\\08.equalpairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5BF6EC-8933-4C0B-A556-4E337A2AB1EC}|08.EqualPairs\\08.EqualPairs.csproj|solutionrelative:08.equalpairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F02B2AD-FFDC-4D58-A097-15C7F943D922}|07.FootballLeague\\07.FootballLeague.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\7.1for-loop-moreexercises\\07.footballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F02B2AD-FFDC-4D58-A097-15C7F943D922}|07.FootballLeague\\07.FootballLeague.csproj|solutionrelative:07.footballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BED550E-0236-46EF-8600-06E6203E6A8F}|06.Bills\\06.Bills.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\7.1for-loop-moreexercises\\06.bills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BED550E-0236-46EF-8600-06E6203E6A8F}|06.Bills\\06.Bills.csproj|solutionrelative:06.bills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C588FC-6DB7-4031-A556-04F0554AA51E}|05.GameOfIntervals\\05.GameOfIntervals.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\7.1for-loop-moreexercises\\05.gameofintervals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C588FC-6DB7-4031-A556-04F0554AA51E}|05.GameOfIntervals\\05.GameOfIntervals.csproj|solutionrelative:05.gameofintervals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC4F7DC-0E6E-4B97-A229-6D93DE29CAD8}|04.Grades\\04.Grades.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\7.1for-loop-moreexercises\\04.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC4F7DC-0E6E-4B97-A229-6D93DE29CAD8}|04.Grades\\04.Grades.csproj|solutionrelative:04.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5D1779-1937-46E3-90C6-229EBEBB90BF}|03.Logistics\\03.Logistics.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\7.1for-loop-moreexercises\\03.logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5D1779-1937-46E3-90C6-229EBEBB90BF}|03.Logistics\\03.Logistics.csproj|solutionrelative:03.logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E243D-3488-4E01-816D-F532ADC24FBF}|02.Hospital\\02.Hospital.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\7.1for-loop-moreexercises\\02.hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E243D-3488-4E01-816D-F532ADC24FBF}|02.Hospital\\02.Hospital.csproj|solutionrelative:02.hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BFB7A1-6AC3-4A3F-9B8A-398450202419}|01.BackToThePast\\01.BackToThePast.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\7.1for-loop-moreexercises\\01.backtothepast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BFB7A1-6AC3-4A3F-9B8A-398450202419}|01.BackToThePast\\01.BackToThePast.csproj|solutionrelative:01.backtothepast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\08.EqualPairs\\Program.cs",
+              "RelativeDocumentMoniker": "08.EqualPairs\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\08.EqualPairs\\Program.cs",
+              "RelativeToolTip": "08.EqualPairs\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:45:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\07.FootballLeague\\Program.cs",
+              "RelativeDocumentMoniker": "07.FootballLeague\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\07.FootballLeague\\Program.cs",
+              "RelativeToolTip": "07.FootballLeague\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:03:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\06.Bills\\Program.cs",
+              "RelativeDocumentMoniker": "06.Bills\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\06.Bills\\Program.cs",
+              "RelativeToolTip": "06.Bills\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:23:44.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\05.GameOfIntervals\\Program.cs",
+              "RelativeDocumentMoniker": "05.GameOfIntervals\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\05.GameOfIntervals\\Program.cs",
+              "RelativeToolTip": "05.GameOfIntervals\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:48:08.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\04.Grades\\Program.cs",
+              "RelativeDocumentMoniker": "04.Grades\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\04.Grades\\Program.cs",
+              "RelativeToolTip": "04.Grades\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:10:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\03.Logistics\\Program.cs",
+              "RelativeDocumentMoniker": "03.Logistics\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\03.Logistics\\Program.cs",
+              "RelativeToolTip": "03.Logistics\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:06:40.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\02.Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "02.Hospital\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\02.Hospital\\Program.cs",
+              "RelativeToolTip": "02.Hospital\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:42:34.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\01.BackToThePast\\Program.cs",
+              "RelativeDocumentMoniker": "01.BackToThePast\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\7.1For-Loop-MoreExercises\\01.BackToThePast\\Program.cs",
+              "RelativeToolTip": "01.BackToThePast\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:31:41.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

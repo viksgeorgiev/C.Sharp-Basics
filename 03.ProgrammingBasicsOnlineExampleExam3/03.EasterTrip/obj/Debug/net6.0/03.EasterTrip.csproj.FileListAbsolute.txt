@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.exe
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\bin\Debug\net6.0\03.EasterTrip.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\refint\03.EasterTrip.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\03.EasterTrip.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.EasterTrip\obj\Debug\net6.0\ref\03.EasterTrip.dll

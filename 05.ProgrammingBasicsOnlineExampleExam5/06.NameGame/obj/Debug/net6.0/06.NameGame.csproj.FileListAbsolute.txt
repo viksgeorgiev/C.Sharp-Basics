@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\06.NameGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\06.NameGame.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\06.NameGame.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\06.NameGame.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\bin\Debug\net6.0\06.NameGame.exe
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\bin\Debug\net6.0\06.NameGame.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\bin\Debug\net6.0\06.NameGame.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\bin\Debug\net6.0\06.NameGame.dll
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\bin\Debug\net6.0\06.NameGame.pdb
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\06.NameGame.dll
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\refint\06.NameGame.dll
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\06.NameGame.pdb
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\06.NameGame.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\05.ProgrammingBasicsOnlineExampleExam5\06.NameGame\obj\Debug\net6.0\ref\06.NameGame.dll

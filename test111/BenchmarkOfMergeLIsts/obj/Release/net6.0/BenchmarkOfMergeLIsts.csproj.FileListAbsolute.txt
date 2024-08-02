@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\bin\Release\net6.0\BenchmarkOfMergeLIsts.exe
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\bin\Release\net6.0\BenchmarkOfMergeLIsts.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\bin\Release\net6.0\BenchmarkOfMergeLIsts.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\bin\Release\net6.0\BenchmarkOfMergeLIsts.dll
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\bin\Release\net6.0\BenchmarkOfMergeLIsts.pdb
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\BenchmarkOfMergeLIsts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\BenchmarkOfMergeLIsts.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\BenchmarkOfMergeLIsts.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\BenchmarkOfMergeLIsts.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\BenchmarkOfMergeLIsts.dll
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\refint\BenchmarkOfMergeLIsts.dll
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\BenchmarkOfMergeLIsts.pdb
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\BenchmarkOfMergeLIsts.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\test111\BenchmarkOfMergeLIsts\obj\Release\net6.0\ref\BenchmarkOfMergeLIsts.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.exe
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.dll
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\bin\Debug\net6.0\01.Dishwasher.pdb
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.dll
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\refint\01.Dishwasher.dll
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.pdb
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\01.Dishwasher.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\01.Dishwasher\obj\Debug\net6.0\ref\01.Dishwasher.dll

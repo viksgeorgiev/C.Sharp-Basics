@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8BFBE9-9ED8-4D9F-8E93-BB6CB0EFBC3F}|10.OddEvenSum\\10.OddEvenSum.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\10.oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8BFBE9-9ED8-4D9F-8E93-BB6CB0EFBC3F}|10.OddEvenSum\\10.OddEvenSum.csproj|solutionrelative:10.oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDCAE30-4616-4C98-85A2-CA06B1EF06F5}|09.LeftAndRightSum\\09.LeftAndRightSum.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\09.leftandrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDCAE30-4616-4C98-85A2-CA06B1EF06F5}|09.LeftAndRightSum\\09.LeftAndRightSum.csproj|solutionrelative:09.leftandrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F2397D-C460-4526-9962-B40A307287E1}|08.NumberSequence\\08.NumberSequence.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\08.numbersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F2397D-C460-4526-9962-B40A307287E1}|08.NumberSequence\\08.NumberSequence.csproj|solutionrelative:08.numbersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE210025-7A89-406A-91AF-76C280D1B0BB}|07.SumNumbers\\07.SumNumbers.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\07.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE210025-7A89-406A-91AF-76C280D1B0BB}|07.SumNumbers\\07.SumNumbers.csproj|solutionrelative:07.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC62A50-E9C8-4E24-A680-4A1B19CDCE52}|06.VowelsSum\\06.VowelsSum.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\06.vowelssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC62A50-E9C8-4E24-A680-4A1B19CDCE52}|06.VowelsSum\\06.VowelsSum.csproj|solutionrelative:06.vowelssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97CBC73-DD7E-4047-911E-C11A7D53A033}|05.CharacterSequence\\05.CharacterSequence.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\05.charactersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97CBC73-DD7E-4047-911E-C11A7D53A033}|05.CharacterSequence\\05.CharacterSequence.csproj|solutionrelative:05.charactersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA675F8C-934D-4286-9136-7C6149AF453A}|04.EvenPowersOf2\\04.EvenPowersOf2.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\04.evenpowersof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA675F8C-934D-4286-9136-7C6149AF453A}|04.EvenPowersOf2\\04.EvenPowersOf2.csproj|solutionrelative:04.evenpowersof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458A8BA7-B15C-43A1-AAA9-BDD1CE5EDCBE}|03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\03.numbers1tonwithstep3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458A8BA7-B15C-43A1-AAA9-BDD1CE5EDCBE}|03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj|solutionrelative:03.numbers1tonwithstep3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E80D28-2ECB-4681-BC0C-BBE32261B3B0}|02.NumbersNTo1\\02.NumbersNTo1.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\02.numbersnto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E80D28-2ECB-4681-BC0C-BBE32261B3B0}|02.NumbersNTo1\\02.NumbersNTo1.csproj|solutionrelative:02.numbersnto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390D673B-676B-47FC-8383-D3037846F3FD}|01.NumbersFrom1To100\\01.NumbersFrom1To100.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\07.forloop-lab\\01.numbersfrom1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390D673B-676B-47FC-8383-D3037846F3FD}|01.NumbersFrom1To100\\01.NumbersFrom1To100.csproj|solutionrelative:01.numbersfrom1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\10.OddEvenSum\\Program.cs",
+              "RelativeDocumentMoniker": "10.OddEvenSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\10.OddEvenSum\\Program.cs",
+              "RelativeToolTip": "10.OddEvenSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:59:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\09.LeftAndRightSum\\Program.cs",
+              "RelativeDocumentMoniker": "09.LeftAndRightSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\09.LeftAndRightSum\\Program.cs",
+              "RelativeToolTip": "09.LeftAndRightSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:53:20.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\08.NumberSequence\\Program.cs",
+              "RelativeDocumentMoniker": "08.NumberSequence\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\08.NumberSequence\\Program.cs",
+              "RelativeToolTip": "08.NumberSequence\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:45:19.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\07.SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "07.SumNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\07.SumNumbers\\Program.cs",
+              "RelativeToolTip": "07.SumNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:42:14.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\06.VowelsSum\\Program.cs",
+              "RelativeDocumentMoniker": "06.VowelsSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\06.VowelsSum\\Program.cs",
+              "RelativeToolTip": "06.VowelsSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:35:20.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\05.CharacterSequence\\Program.cs",
+              "RelativeDocumentMoniker": "05.CharacterSequence\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\05.CharacterSequence\\Program.cs",
+              "RelativeToolTip": "05.CharacterSequence\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:30:05.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\04.EvenPowersOf2\\Program.cs",
+              "RelativeDocumentMoniker": "04.EvenPowersOf2\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\04.EvenPowersOf2\\Program.cs",
+              "RelativeToolTip": "04.EvenPowersOf2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:20:20.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\03.Numbers1ToNWithStep3\\Program.cs",
+              "RelativeDocumentMoniker": "03.Numbers1ToNWithStep3\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\03.Numbers1ToNWithStep3\\Program.cs",
+              "RelativeToolTip": "03.Numbers1ToNWithStep3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:16:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\02.NumbersNTo1\\Program.cs",
+              "RelativeDocumentMoniker": "02.NumbersNTo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\02.NumbersNTo1\\Program.cs",
+              "RelativeToolTip": "02.NumbersNTo1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:12:09.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\01.NumbersFrom1To100\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersFrom1To100\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\07.ForLoop-Lab\\01.NumbersFrom1To100\\Program.cs",
+              "RelativeToolTip": "01.NumbersFrom1To100\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:09:55.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

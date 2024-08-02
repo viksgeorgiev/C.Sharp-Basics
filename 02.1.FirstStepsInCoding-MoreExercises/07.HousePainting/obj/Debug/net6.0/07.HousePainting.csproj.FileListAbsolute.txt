@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.exe
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.pdb
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\refint\07.HousePainting.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.pdb
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\07.HousePainting\obj\Debug\net6.0\ref\07.HousePainting.dll

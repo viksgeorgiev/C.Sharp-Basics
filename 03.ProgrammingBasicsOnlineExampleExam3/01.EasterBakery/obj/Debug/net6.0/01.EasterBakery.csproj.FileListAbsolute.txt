@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.exe
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\bin\Debug\net6.0\01.EasterBakery.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\refint\01.EasterBakery.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\01.EasterBakery.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\01.EasterBakery\obj\Debug\net6.0\ref\01.EasterBakery.dll

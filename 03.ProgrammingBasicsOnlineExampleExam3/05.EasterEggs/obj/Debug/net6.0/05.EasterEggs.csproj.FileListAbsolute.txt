@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.exe
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\bin\Debug\net6.0\05.EasterEggs.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\refint\05.EasterEggs.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\05.EasterEggs.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\05.EasterEggs\obj\Debug\net6.0\ref\05.EasterEggs.dll

@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EDD195-CB15-4C46-8C72-06E1CBB31204}|10.MultiplyBy2\\10.MultiplyBy2.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\10.multiplyby2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EDD195-CB15-4C46-8C72-06E1CBB31204}|10.MultiplyBy2\\10.MultiplyBy2.csproj|solutionrelative:10.multiplyby2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1BE6AA-CF72-4476-9C34-C7009973BDC5}|09.NumbersFrom1To10\\09.NumbersFrom1To10.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\09.numbersfrom1to10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1BE6AA-CF72-4476-9C34-C7009973BDC5}|09.NumbersFrom1To10\\09.NumbersFrom1To10.csproj|solutionrelative:09.numbersfrom1to10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D840AB-6591-42F6-B567-EC3E1E9623D0}|08.PointOnRectangleBorder\\08.PointOnRectangleBorder.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\08.pointonrectangleborder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D840AB-6591-42F6-B567-EC3E1E9623D0}|08.PointOnRectangleBorder\\08.PointOnRectangleBorder.csproj|solutionrelative:08.pointonrectangleborder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB27E6B8-5EBE-4792-80D9-D8B937C0789B}|07.SchoolCamp\\07.SchoolCamp.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\07.schoolcamp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB27E6B8-5EBE-4792-80D9-D8B937C0789B}|07.SchoolCamp\\07.SchoolCamp.csproj|solutionrelative:07.schoolcamp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB214B91-C99F-4E13-A528-E202E7912BE6}|06.TruckDriver\\06.TruckDriver.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\06.truckdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB214B91-C99F-4E13-A528-E202E7912BE6}|06.TruckDriver\\06.TruckDriver.csproj|solutionrelative:06.truckdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7A3AB2-D589-4F8C-9A46-DCD7C2E84F9E}|05.Vacation\\05.Vacation.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\05.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7A3AB2-D589-4F8C-9A46-DCD7C2E84F9E}|05.Vacation\\05.Vacation.csproj|solutionrelative:05.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F376D-E9A4-4FA5-A0D9-F1B1D3DD6354}|04.CarToGo\\04.CarToGo.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\04.cartogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F376D-E9A4-4FA5-A0D9-F1B1D3DD6354}|04.CarToGo\\04.CarToGo.csproj|solutionrelative:04.cartogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8964691-FD66-44ED-980E-89926DB97575}|03.Flowers\\03.Flowers.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\03.flowers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8964691-FD66-44ED-980E-89926DB97575}|03.Flowers\\03.Flowers.csproj|solutionrelative:03.flowers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C96EA8-FFF9-4DFC-BD37-7CD00B04F625}|02.BikeRace\\02.BikeRace.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\02.bikerace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C96EA8-FFF9-4DFC-BD37-7CD00B04F625}|02.BikeRace\\02.BikeRace.csproj|solutionrelative:02.bikerace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B8B327-817B-43C6-985A-B4F3DE022137}|01.MatchTickets\\01.MatchTickets.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\01.matchtickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B8B327-817B-43C6-985A-B4F3DE022137}|01.MatchTickets\\01.MatchTickets.csproj|solutionrelative:01.matchtickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B8B327-817B-43C6-985A-B4F3DE022137}|01.MatchTickets\\01.MatchTickets.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\3.1conditionalstatementsadvanced-moreexercises\\01.matchtickets\\01.matchtickets.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9B8B327-817B-43C6-985A-B4F3DE022137}|01.MatchTickets\\01.MatchTickets.csproj|solutionrelative:01.matchtickets\\01.matchtickets.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\10.MultiplyBy2\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplyBy2\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\10.MultiplyBy2\\Program.cs",
+              "RelativeToolTip": "10.MultiplyBy2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:29:40.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\09.NumbersFrom1To10\\Program.cs",
+              "RelativeDocumentMoniker": "09.NumbersFrom1To10\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\09.NumbersFrom1To10\\Program.cs",
+              "RelativeToolTip": "09.NumbersFrom1To10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:27:18.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\08.PointOnRectangleBorder\\Program.cs",
+              "RelativeDocumentMoniker": "08.PointOnRectangleBorder\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\08.PointOnRectangleBorder\\Program.cs",
+              "RelativeToolTip": "08.PointOnRectangleBorder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:12:11.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\07.SchoolCamp\\Program.cs",
+              "RelativeDocumentMoniker": "07.SchoolCamp\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\07.SchoolCamp\\Program.cs",
+              "RelativeToolTip": "07.SchoolCamp\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAF8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:41:42.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\06.TruckDriver\\Program.cs",
+              "RelativeDocumentMoniker": "06.TruckDriver\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\06.TruckDriver\\Program.cs",
+              "RelativeToolTip": "06.TruckDriver\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:22:22.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\05.Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "05.Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\05.Vacation\\Program.cs",
+              "RelativeToolTip": "05.Vacation\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwDEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:07:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\04.CarToGo\\Program.cs",
+              "RelativeDocumentMoniker": "04.CarToGo\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\04.CarToGo\\Program.cs",
+              "RelativeToolTip": "04.CarToGo\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwC4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:51:55.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\03.Flowers\\Program.cs",
+              "RelativeDocumentMoniker": "03.Flowers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\03.Flowers\\Program.cs",
+              "RelativeToolTip": "03.Flowers\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:14:23.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\02.BikeRace\\Program.cs",
+              "RelativeDocumentMoniker": "02.BikeRace\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\02.BikeRace\\Program.cs",
+              "RelativeToolTip": "02.BikeRace\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:54:53.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "01.MatchTickets",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\01.MatchTickets\\01.MatchTickets.csproj",
+              "RelativeDocumentMoniker": "01.MatchTickets\\01.MatchTickets.csproj",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\01.MatchTickets\\01.MatchTickets.csproj",
+              "RelativeToolTip": "01.MatchTickets\\01.MatchTickets.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T17:33:05.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\01.MatchTickets\\Program.cs",
+              "RelativeDocumentMoniker": "01.MatchTickets\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\3.1ConditionalStatementsAdvanced-MoreExercises\\01.MatchTickets\\Program.cs",
+              "RelativeToolTip": "01.MatchTickets\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:32:59.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

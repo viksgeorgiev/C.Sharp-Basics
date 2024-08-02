@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\bin\Debug\net6.0\06.GoldMine.exe
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\bin\Debug\net6.0\06.GoldMine.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\bin\Debug\net6.0\06.GoldMine.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\bin\Debug\net6.0\06.GoldMine.dll
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\bin\Debug\net6.0\06.GoldMine.pdb
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\06.GoldMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\06.GoldMine.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\06.GoldMine.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\06.GoldMine.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\06.GoldMine.dll
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\refint\06.GoldMine.dll
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\06.GoldMine.pdb
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\06.GoldMine.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\ProgrammingBasicsOnlineRegularExam-27and28April2024\06.GoldMine\obj\Debug\net6.0\ref\06.GoldMine.dll

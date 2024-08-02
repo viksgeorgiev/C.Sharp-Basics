@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.exe
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\net6.0\01.OldBooks.pdb
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\refint\01.OldBooks.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.pdb
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\01.OldBooks.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\net6.0\ref\01.OldBooks.dll

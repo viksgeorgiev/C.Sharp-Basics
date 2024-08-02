@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{840E9FFA-6619-41B4-99BB-CE8034AEA941}|02.MountainRun\\02.MountainRun.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\02.mountainrun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840E9FFA-6619-41B4-99BB-CE8034AEA941}|02.MountainRun\\02.MountainRun.csproj|solutionrelative:02.mountainrun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0C44DF-3FC1-4DA0-8BB0-246E2884B365}|01.BirthdayParty\\01.BirthdayParty.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\01.birthdayparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0C44DF-3FC1-4DA0-8BB0-246E2884B365}|01.BirthdayParty\\01.BirthdayParty.csproj|solutionrelative:01.birthdayparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7420F0-E012-4FAD-9CA4-A5E85242F860}|01.ChangeBureau\\01.ChangeBureau.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\01.changebureau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7420F0-E012-4FAD-9CA4-A5E85242F860}|01.ChangeBureau\\01.ChangeBureau.csproj|solutionrelative:01.changebureau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5242CC0A-DC73-4D80-9163-68BA0BA7D69F}|05.CareOfPuppy\\05.CareOfPuppy.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\05.careofpuppy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5242CC0A-DC73-4D80-9163-68BA0BA7D69F}|05.CareOfPuppy\\05.CareOfPuppy.csproj|solutionrelative:05.careofpuppy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7375223F-60E7-4B0F-B967-CFFCDB0003B0}|03.EnergyBooster\\03.EnergyBooster.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\03.energybooster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7375223F-60E7-4B0F-B967-CFFCDB0003B0}|03.EnergyBooster\\03.EnergyBooster.csproj|solutionrelative:03.energybooster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291BB1F1-0A19-4B3A-815F-F9A78963B47F}|06.TournamentOfChristmas\\06.TournamentOfChristmas.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\06.tournamentofchristmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291BB1F1-0A19-4B3A-815F-F9A78963B47F}|06.TournamentOfChristmas\\06.TournamentOfChristmas.csproj|solutionrelative:06.tournamentofchristmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83DDC92-465C-47D6-A8FC-9F9A982760F4}|05.SuitcasesLoad\\05.SuitcasesLoad.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\05.suitcasesload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83DDC92-465C-47D6-A8FC-9F9A982760F4}|05.SuitcasesLoad\\05.SuitcasesLoad.csproj|solutionrelative:05.suitcasesload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FDD4CF-42C4-4532-A253-F4EF4B14CBBD}|04.TrekkingMania\\04.TrekkingMania.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\04.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FDD4CF-42C4-4532-A253-F4EF4B14CBBD}|04.TrekkingMania\\04.TrekkingMania.csproj|solutionrelative:04.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93ED3DC-3FFF-4DA8-8609-5079BE892AEA}|04.FoodForPets\\04.FoodForPets.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\04.foodforpets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93ED3DC-3FFF-4DA8-8609-5079BE892AEA}|04.FoodForPets\\04.FoodForPets.csproj|solutionrelative:04.foodforpets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32098653-44E0-4873-9BDC-00B2BF1D9DAD}|03.FitnessCard\\03.FitnessCard.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\03.fitnesscard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32098653-44E0-4873-9BDC-00B2BF1D9DAD}|03.FitnessCard\\03.FitnessCard.csproj|solutionrelative:03.fitnesscard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1402BF34-DF0B-4C66-82AD-A6E7D6C1B0A5}|02.CatWalking\\02.CatWalking.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.programmingbasicsonlineexampleexam6\\02.catwalking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1402BF34-DF0B-4C66-82AD-A6E7D6C1B0A5}|02.CatWalking\\02.CatWalking.csproj|solutionrelative:02.catwalking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\06.TournamentOfChristmas\\Program.cs",
+              "RelativeDocumentMoniker": "06.TournamentOfChristmas\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\06.TournamentOfChristmas\\Program.cs",
+              "RelativeToolTip": "06.TournamentOfChristmas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:24:51.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\05.SuitcasesLoad\\Program.cs",
+              "RelativeDocumentMoniker": "05.SuitcasesLoad\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\05.SuitcasesLoad\\Program.cs",
+              "RelativeToolTip": "05.SuitcasesLoad\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:45:57.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\05.CareOfPuppy\\Program.cs",
+              "RelativeDocumentMoniker": "05.CareOfPuppy\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\05.CareOfPuppy\\Program.cs",
+              "RelativeToolTip": "05.CareOfPuppy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:31:54.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\04.TrekkingMania\\Program.cs",
+              "RelativeDocumentMoniker": "04.TrekkingMania\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\04.TrekkingMania\\Program.cs",
+              "RelativeToolTip": "04.TrekkingMania\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:01:50.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\04.FoodForPets\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoodForPets\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\04.FoodForPets\\Program.cs",
+              "RelativeToolTip": "04.FoodForPets\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:00:59.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\03.FitnessCard\\Program.cs",
+              "RelativeDocumentMoniker": "03.FitnessCard\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\03.FitnessCard\\Program.cs",
+              "RelativeToolTip": "03.FitnessCard\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:40:07.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\03.EnergyBooster\\Program.cs",
+              "RelativeDocumentMoniker": "03.EnergyBooster\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\03.EnergyBooster\\Program.cs",
+              "RelativeToolTip": "03.EnergyBooster\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:08:56.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\02.MountainRun\\Program.cs",
+              "RelativeDocumentMoniker": "02.MountainRun\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\02.MountainRun\\Program.cs*",
+              "RelativeToolTip": "02.MountainRun\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:50:00.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\02.CatWalking\\Program.cs",
+              "RelativeDocumentMoniker": "02.CatWalking\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\02.CatWalking\\Program.cs",
+              "RelativeToolTip": "02.CatWalking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:10:17.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\01.ChangeBureau\\Program.cs",
+              "RelativeDocumentMoniker": "01.ChangeBureau\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\01.ChangeBureau\\Program.cs",
+              "RelativeToolTip": "01.ChangeBureau\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:57:35.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\01.BirthdayParty\\Program.cs",
+              "RelativeDocumentMoniker": "01.BirthdayParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ProgrammingBasicsOnlineExampleExam6\\01.BirthdayParty\\Program.cs",
+              "RelativeToolTip": "01.BirthdayParty\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:37:28.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

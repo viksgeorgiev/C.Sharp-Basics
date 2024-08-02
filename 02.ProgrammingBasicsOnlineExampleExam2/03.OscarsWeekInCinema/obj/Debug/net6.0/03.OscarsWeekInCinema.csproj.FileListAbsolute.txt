@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.exe
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\bin\Debug\net6.0\03.OscarsWeekInCinema.pdb
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\refint\03.OscarsWeekInCinema.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.pdb
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\03.OscarsWeekInCinema.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.ProgrammingBasicsOnlineExampleExam2\03.OscarsWeekInCinema\obj\Debug\net6.0\ref\03.OscarsWeekInCinema.dll

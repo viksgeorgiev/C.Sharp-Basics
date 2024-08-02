@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.exe
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.dll
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\bin\Debug\net6.0\01.SeriesCalculator.pdb
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.dll
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\refint\01.SeriesCalculator.dll
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.pdb
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\01.SeriesCalculator.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\04.ProgrammingBasicsOnlineExampe Exam4\01.SeriesCalculator\obj\Debug\net6.0\ref\01.SeriesCalculator.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\bin\Debug\net6.0\04.EasterShop.exe
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\bin\Debug\net6.0\04.EasterShop.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\bin\Debug\net6.0\04.EasterShop.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\bin\Debug\net6.0\04.EasterShop.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\bin\Debug\net6.0\04.EasterShop.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\04.EasterShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\04.EasterShop.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\04.EasterShop.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\04.EasterShop.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\04.EasterShop.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\refint\04.EasterShop.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\04.EasterShop.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\04.EasterShop.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\04.EasterShop\obj\Debug\net6.0\ref\04.EasterShop.dll

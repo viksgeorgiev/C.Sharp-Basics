@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D31366B-96EC-4A1E-9E78-95F14F5CBB34}|09.FishTank\\09.FishTank.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\09.fishtank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D31366B-96EC-4A1E-9E78-95F14F5CBB34}|09.FishTank\\09.FishTank.csproj|solutionrelative:09.fishtank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0E5552-7A8B-4852-8831-61B12BA3E098}|08.BasketballEquipment\\08.BasketballEquipment.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\08.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0E5552-7A8B-4852-8831-61B12BA3E098}|08.BasketballEquipment\\08.BasketballEquipment.csproj|solutionrelative:08.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360CB4DA-F434-41D9-894B-FC5FEBAD7A62}|07.FoodDelivery\\07.FoodDelivery.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\07.fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360CB4DA-F434-41D9-894B-FC5FEBAD7A62}|07.FoodDelivery\\07.FoodDelivery.csproj|solutionrelative:07.fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C73386-F852-4016-9FBF-149E1AD8DC06}|06.Repainting\\06.Repainting.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\06.repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C73386-F852-4016-9FBF-149E1AD8DC06}|06.Repainting\\06.Repainting.csproj|solutionrelative:06.repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7B2CCF-A380-4FE9-9637-37AB0CB69B14}|05.SuppliesForSchool\\05.SuppliesForSchool.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\05.suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7B2CCF-A380-4FE9-9637-37AB0CB69B14}|05.SuppliesForSchool\\05.SuppliesForSchool.csproj|solutionrelative:05.suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6854D8-D09F-496C-A4B4-6E462C9F529A}|04.VacationBooksList\\04.VacationBooksList.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\04.vacationbookslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6854D8-D09F-496C-A4B4-6E462C9F529A}|04.VacationBooksList\\04.VacationBooksList.csproj|solutionrelative:04.vacationbookslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA0EE09-40D5-4086-98B5-C94E69CC8590}|03.DepositCalculator\\03.DepositCalculator.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\03.depositcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA0EE09-40D5-4086-98B5-C94E69CC8590}|03.DepositCalculator\\03.DepositCalculator.csproj|solutionrelative:03.depositcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B41D91-7AC9-4BAB-AC21-0AE13C4DF96A}|02.RadiansToDegrees\\02.RadiansToDegrees.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\02.radianstodegrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B41D91-7AC9-4BAB-AC21-0AE13C4DF96A}|02.RadiansToDegrees\\02.RadiansToDegrees.csproj|solutionrelative:02.radianstodegrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE9C2E0-A3F4-4ADD-973E-AABAFF497CCF}|01.USDtoBGN\\01.USDtoBGN.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.firststepsincoding-exercise\\01.usdtobgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE9C2E0-A3F4-4ADD-973E-AABAFF497CCF}|01.USDtoBGN\\01.USDtoBGN.csproj|solutionrelative:01.usdtobgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\09.FishTank\\Program.cs",
+              "RelativeDocumentMoniker": "09.FishTank\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\09.FishTank\\Program.cs",
+              "RelativeToolTip": "09.FishTank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:14:07.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\08.BasketballEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "08.BasketballEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\08.BasketballEquipment\\Program.cs",
+              "RelativeToolTip": "08.BasketballEquipment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:03:39.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\07.FoodDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "07.FoodDelivery\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\07.FoodDelivery\\Program.cs",
+              "RelativeToolTip": "07.FoodDelivery\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:41:08.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\06.Repainting\\Program.cs",
+              "RelativeDocumentMoniker": "06.Repainting\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\06.Repainting\\Program.cs",
+              "RelativeToolTip": "06.Repainting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:21:29.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\05.SuppliesForSchool\\Program.cs",
+              "RelativeDocumentMoniker": "05.SuppliesForSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\05.SuppliesForSchool\\Program.cs",
+              "RelativeToolTip": "05.SuppliesForSchool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:03:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\04.VacationBooksList\\Program.cs",
+              "RelativeDocumentMoniker": "04.VacationBooksList\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\04.VacationBooksList\\Program.cs",
+              "RelativeToolTip": "04.VacationBooksList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:53:57.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\03.DepositCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "03.DepositCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\03.DepositCalculator\\Program.cs",
+              "RelativeToolTip": "03.DepositCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:32:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\02.RadiansToDegrees\\Program.cs",
+              "RelativeDocumentMoniker": "02.RadiansToDegrees\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\02.RadiansToDegrees\\Program.cs",
+              "RelativeToolTip": "02.RadiansToDegrees\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:26:42.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\01.USDtoBGN\\Program.cs",
+              "RelativeDocumentMoniker": "01.USDtoBGN\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.FirstStepsInCoding-Exercise\\01.USDtoBGN\\Program.cs",
+              "RelativeToolTip": "01.USDtoBGN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:21:10.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

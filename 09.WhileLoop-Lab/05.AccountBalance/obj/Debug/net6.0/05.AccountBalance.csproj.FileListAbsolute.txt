@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.exe
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.dll
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\net6.0\05.AccountBalance.pdb
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.dll
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\refint\05.AccountBalance.dll
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.pdb
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\05.AccountBalance.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\net6.0\ref\05.AccountBalance.dll

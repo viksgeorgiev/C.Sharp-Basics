@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.exe
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\bin\Debug\net6.0\05.SuitcasesLoad.pdb
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\refint\05.SuitcasesLoad.dll
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.pdb
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\05.SuitcasesLoad.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\06.ProgrammingBasicsOnlineExampleExam6\05.SuitcasesLoad\obj\Debug\net6.0\ref\05.SuitcasesLoad.dll

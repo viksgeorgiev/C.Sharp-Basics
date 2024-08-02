@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.exe
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\refint\01.HelloSoftUni.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\ref\01.HelloSoftUni.dll

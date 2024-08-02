@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\bin\Debug\net6.0\10.WeatherForecast-Part2.exe
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\bin\Debug\net6.0\10.WeatherForecast-Part2.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\bin\Debug\net6.0\10.WeatherForecast-Part2.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\bin\Debug\net6.0\10.WeatherForecast-Part2.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\bin\Debug\net6.0\10.WeatherForecast-Part2.pdb
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\10.WeatherForecast-Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\10.WeatherForecast-Part2.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\10.WeatherForecast-Part2.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\10.WeatherForecast-Part2.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\10.WeatherForecast-Part2.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\refint\10.WeatherForecast-Part2.dll
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\10.WeatherForecast-Part2.pdb
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\10.WeatherForecast-Part2.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\02.1.FirstStepsInCoding-MoreExercises\10.WeatherForecast-Part2\obj\Debug\net6.0\ref\10.WeatherForecast-Part2.dll

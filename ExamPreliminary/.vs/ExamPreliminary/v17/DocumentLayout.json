@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED72B06C-74A9-4A7D-8EA9-EC09243173DF}|06.SumAndProduct\\06.SumAndProduct.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\exampreliminary\\06.sumandproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED72B06C-74A9-4A7D-8EA9-EC09243173DF}|06.SumAndProduct\\06.SumAndProduct.csproj|solutionrelative:06.sumandproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE806E57-50D5-4322-8730-273C184905E1}|04.ComputerFirm\\04.ComputerFirm.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\exampreliminary\\04.computerfirm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE806E57-50D5-4322-8730-273C184905E1}|04.ComputerFirm\\04.ComputerFirm.csproj|solutionrelative:04.computerfirm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB28235-5355-4CDF-8AB2-A793A2A9A0FC}|03.ExcursionCalculator\\03.ExcursionCalculator.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\exampreliminary\\03.excursioncalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB28235-5355-4CDF-8AB2-A793A2A9A0FC}|03.ExcursionCalculator\\03.ExcursionCalculator.csproj|solutionrelative:03.excursioncalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E75C1B-7447-4706-A0F9-68B00082ED0E}|02.MaidenParty\\02.MaidenParty.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\exampreliminary\\02.maidenparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E75C1B-7447-4706-A0F9-68B00082ED0E}|02.MaidenParty\\02.MaidenParty.csproj|solutionrelative:02.maidenparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46A4050-279A-4222-9C31-8E0169A74F9E}|05.ExcursionSale\\05.ExcursionSale.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\exampreliminary\\05.excursionsale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46A4050-279A-4222-9C31-8E0169A74F9E}|05.ExcursionSale\\05.ExcursionSale.csproj|solutionrelative:05.excursionsale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B373D-4E59-483D-BDCC-F3CE24207C61}|01.Program1\\01.Program1.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\exampreliminary\\01.program1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B373D-4E59-483D-BDCC-F3CE24207C61}|01.Program1\\01.Program1.csproj|solutionrelative:01.program1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\06.SumAndProduct\\Program.cs",
+              "RelativeDocumentMoniker": "06.SumAndProduct\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\06.SumAndProduct\\Program.cs",
+              "RelativeToolTip": "06.SumAndProduct\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:16:56.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\05.ExcursionSale\\Program.cs",
+              "RelativeDocumentMoniker": "05.ExcursionSale\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\05.ExcursionSale\\Program.cs",
+              "RelativeToolTip": "05.ExcursionSale\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:06:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\04.ComputerFirm\\Program.cs",
+              "RelativeDocumentMoniker": "04.ComputerFirm\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\04.ComputerFirm\\Program.cs",
+              "RelativeToolTip": "04.ComputerFirm\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:45:19.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\03.ExcursionCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "03.ExcursionCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\03.ExcursionCalculator\\Program.cs",
+              "RelativeToolTip": "03.ExcursionCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:32:52.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\02.MaidenParty\\Program.cs",
+              "RelativeDocumentMoniker": "02.MaidenParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\02.MaidenParty\\Program.cs",
+              "RelativeToolTip": "02.MaidenParty\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:19:51.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\01.Program1\\Program.cs",
+              "RelativeDocumentMoniker": "01.Program1\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\ExamPreliminary\\01.Program1\\Program.cs",
+              "RelativeToolTip": "01.Program1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:08:24.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

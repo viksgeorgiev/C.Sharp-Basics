@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\bin\Debug\net6.0\02.SleepyTomCat.exe
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\bin\Debug\net6.0\02.SleepyTomCat.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\bin\Debug\net6.0\02.SleepyTomCat.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\bin\Debug\net6.0\02.SleepyTomCat.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\bin\Debug\net6.0\02.SleepyTomCat.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\02.SleepyTomCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\02.SleepyTomCat.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\02.SleepyTomCat.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\02.SleepyTomCat.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\02.SleepyTomCat.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\refint\02.SleepyTomCat.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\02.SleepyTomCat.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\02.SleepyTomCat.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.PipesInPool\02.SleepyTomCat\obj\Debug\net6.0\ref\02.SleepyTomCat.dll

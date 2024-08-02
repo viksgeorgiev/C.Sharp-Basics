@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E300BE19-B4ED-4FF4-AFDC-FA61C0A92D80}|06.CinemaTickets\\06.CinemaTickets.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.programmingbasicsonlineexampleexam2\\06.cinematickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E300BE19-B4ED-4FF4-AFDC-FA61C0A92D80}|06.CinemaTickets\\06.CinemaTickets.csproj|solutionrelative:06.cinematickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3E6D6D-396D-4B4E-8F23-CC076B2CA301}|05.MovieRatings\\05.MovieRatings.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.programmingbasicsonlineexampleexam2\\05.movieratings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3E6D6D-396D-4B4E-8F23-CC076B2CA301}|05.MovieRatings\\05.MovieRatings.csproj|solutionrelative:05.movieratings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6016F2A5-2E35-4CFF-9A1E-CA6C69F7C3E3}|04.CinemaVoucher\\04.CinemaVoucher.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.programmingbasicsonlineexampleexam2\\04.cinemavoucher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6016F2A5-2E35-4CFF-9A1E-CA6C69F7C3E3}|04.CinemaVoucher\\04.CinemaVoucher.csproj|solutionrelative:04.cinemavoucher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CCBA98-41D7-4DD5-A85B-B7ED33D2B434}|03.OscarsWeekInCinema\\03.OscarsWeekInCinema.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.programmingbasicsonlineexampleexam2\\03.oscarsweekincinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CCBA98-41D7-4DD5-A85B-B7ED33D2B434}|03.OscarsWeekInCinema\\03.OscarsWeekInCinema.csproj|solutionrelative:03.oscarsweekincinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BAADB3-E781-48B2-A904-EF7E403F183C}|02.GodzillaVs.Kong\\02.GodzillaVs.Kong.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.programmingbasicsonlineexampleexam2\\02.godzillavs.kong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BAADB3-E781-48B2-A904-EF7E403F183C}|02.GodzillaVs.Kong\\02.GodzillaVs.Kong.csproj|solutionrelative:02.godzillavs.kong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41701E-1BE4-45A8-859A-B27562141294}|01.OscarsCeremony\\01.OscarsCeremony.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\02.programmingbasicsonlineexampleexam2\\01.oscarsceremony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41701E-1BE4-45A8-859A-B27562141294}|01.OscarsCeremony\\01.OscarsCeremony.csproj|solutionrelative:01.oscarsceremony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\06.CinemaTickets\\Program.cs",
+              "RelativeDocumentMoniker": "06.CinemaTickets\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\06.CinemaTickets\\Program.cs",
+              "RelativeToolTip": "06.CinemaTickets\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:50:54.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\05.MovieRatings\\Program.cs",
+              "RelativeDocumentMoniker": "05.MovieRatings\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\05.MovieRatings\\Program.cs",
+              "RelativeToolTip": "05.MovieRatings\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:35:21.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\04.CinemaVoucher\\Program.cs",
+              "RelativeDocumentMoniker": "04.CinemaVoucher\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\04.CinemaVoucher\\Program.cs",
+              "RelativeToolTip": "04.CinemaVoucher\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:19:11.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\03.OscarsWeekInCinema\\Program.cs",
+              "RelativeDocumentMoniker": "03.OscarsWeekInCinema\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\03.OscarsWeekInCinema\\Program.cs",
+              "RelativeToolTip": "03.OscarsWeekInCinema\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwEkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:04:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\02.GodzillaVs.Kong\\Program.cs",
+              "RelativeDocumentMoniker": "02.GodzillaVs.Kong\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\02.GodzillaVs.Kong\\Program.cs",
+              "RelativeToolTip": "02.GodzillaVs.Kong\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:54:14.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\01.OscarsCeremony\\Program.cs",
+              "RelativeDocumentMoniker": "01.OscarsCeremony\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\02.ProgrammingBasicsOnlineExampleExam2\\01.OscarsCeremony\\Program.cs",
+              "RelativeToolTip": "01.OscarsCeremony\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:46:56.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

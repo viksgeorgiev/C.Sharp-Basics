@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590C502F-B15F-4CB1-A23B-881D946C87FD}|09.YardGreening\\09.YardGreening.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590C502F-B15F-4CB1-A23B-881D946C87FD}|09.YardGreening\\09.YardGreening.csproj|solutionrelative:09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0B77DB-EFFE-45FA-8CD9-7B1B5778FC8E}|08.PetShop\\08.PetShop.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\08.petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0B77DB-EFFE-45FA-8CD9-7B1B5778FC8E}|08.PetShop\\08.PetShop.csproj|solutionrelative:08.petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAC8A17-41D3-4B88-8128-20B0FF212B23}|07.ProjectsCreation\\07.ProjectsCreation.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\07.projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAC8A17-41D3-4B88-8128-20B0FF212B23}|07.ProjectsCreation\\07.ProjectsCreation.csproj|solutionrelative:07.projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5728439-D06B-4255-9C43-B19D503FB240}|06.ConcatenateData\\06.ConcatenateData.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\06.concatenatedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5728439-D06B-4255-9C43-B19D503FB240}|06.ConcatenateData\\06.ConcatenateData.csproj|solutionrelative:06.concatenatedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58059803-B5A9-4B5D-8FA1-A189D43B8E19}|05.GreetingbyName\\05.GreetingbyName.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\05.greetingbyname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58059803-B5A9-4B5D-8FA1-A189D43B8E19}|05.GreetingbyName\\05.GreetingbyName.csproj|solutionrelative:05.greetingbyname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35581C0F-E226-4B2B-A6B9-54D35F61E5B9}|04.InchestoCentimeters\\04.InchestoCentimeters.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\04.inchestocentimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35581C0F-E226-4B2B-A6B9-54D35F61E5B9}|04.InchestoCentimeters\\04.InchestoCentimeters.csproj|solutionrelative:04.inchestocentimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2BE9E1-81B1-4B83-B1D7-855FCFDF76A4}|03.RectangleArea\\03.RectangleArea.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\03.rectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2BE9E1-81B1-4B83-B1D7-855FCFDF76A4}|03.RectangleArea\\03.RectangleArea.csproj|solutionrelative:03.rectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F0C87-CBAE-4C29-95F5-13E3CA88A1DE}|02.Nums1to10\\02.Nums1to10.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\02.nums1to10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F0C87-CBAE-4C29-95F5-13E3CA88A1DE}|02.Nums1to10\\02.Nums1to10.csproj|solutionrelative:02.nums1to10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9767DCF2-7FC8-441B-9525-70FD7D6D9A83}|01.HelloSoftUni\\01.HelloSoftUni.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\01.firststepsincoding-lab\\01.hellosoftuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9767DCF2-7FC8-441B-9525-70FD7D6D9A83}|01.HelloSoftUni\\01.HelloSoftUni.csproj|solutionrelative:01.hellosoftuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\09.YardGreening\\Program.cs",
+              "RelativeDocumentMoniker": "09.YardGreening\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\09.YardGreening\\Program.cs",
+              "RelativeToolTip": "09.YardGreening\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:37:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\08.PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "08.PetShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\08.PetShop\\Program.cs",
+              "RelativeToolTip": "08.PetShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:29:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\07.ProjectsCreation\\Program.cs",
+              "RelativeDocumentMoniker": "07.ProjectsCreation\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\07.ProjectsCreation\\Program.cs",
+              "RelativeToolTip": "07.ProjectsCreation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:24:43.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\06.ConcatenateData\\Program.cs",
+              "RelativeDocumentMoniker": "06.ConcatenateData\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\06.ConcatenateData\\Program.cs",
+              "RelativeToolTip": "06.ConcatenateData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:19:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\05.GreetingbyName\\Program.cs",
+              "RelativeDocumentMoniker": "05.GreetingbyName\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\05.GreetingbyName\\Program.cs",
+              "RelativeToolTip": "05.GreetingbyName\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:16:32.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\04.InchestoCentimeters\\Program.cs",
+              "RelativeDocumentMoniker": "04.InchestoCentimeters\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\04.InchestoCentimeters\\Program.cs",
+              "RelativeToolTip": "04.InchestoCentimeters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:12:43.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\03.RectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "03.RectangleArea\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\03.RectangleArea\\Program.cs",
+              "RelativeToolTip": "03.RectangleArea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:08:33.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\02.Nums1to10\\Program.cs",
+              "RelativeDocumentMoniker": "02.Nums1to10\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\02.Nums1to10\\Program.cs",
+              "RelativeToolTip": "02.Nums1to10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:05:30.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\01.HelloSoftUni\\Program.cs",
+              "RelativeDocumentMoniker": "01.HelloSoftUni\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\01.FirstStepsInCoding-Lab\\01.HelloSoftUni\\Program.cs",
+              "RelativeToolTip": "01.HelloSoftUni\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:02:17.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

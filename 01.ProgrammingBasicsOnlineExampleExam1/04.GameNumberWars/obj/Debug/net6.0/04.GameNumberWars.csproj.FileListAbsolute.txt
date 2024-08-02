@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.exe
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\refint\04.GameNumberWars.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.GameNumberWars\obj\Debug\net6.0\ref\04.GameNumberWars.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net6.0\04.InchestoCentimeters.exe
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net6.0\04.InchestoCentimeters.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net6.0\04.InchestoCentimeters.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net6.0\04.InchestoCentimeters.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\bin\Debug\net6.0\04.InchestoCentimeters.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\04.InchestoCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\04.InchestoCentimeters.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\04.InchestoCentimeters.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\04.InchestoCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\04.InchestoCentimeters.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\refint\04.InchestoCentimeters.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\04.InchestoCentimeters.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\04.InchestoCentimeters.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.FirstStepsInCoding-Lab\04.InchestoCentimeters\obj\Debug\net6.0\ref\04.InchestoCentimeters.dll

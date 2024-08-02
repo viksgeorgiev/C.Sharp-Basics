@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C5E258-9680-4342-A3D5-B2EC6D25471A}|07.Moving\\07.Moving.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\10.whileloop-exercise\\07.moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C5E258-9680-4342-A3D5-B2EC6D25471A}|07.Moving\\07.Moving.csproj|solutionrelative:07.moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F835BE-4F64-4CB1-82C7-ACBE3E45D94F}|06.Cake\\06.Cake.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\10.whileloop-exercise\\06.cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F835BE-4F64-4CB1-82C7-ACBE3E45D94F}|06.Cake\\06.Cake.csproj|solutionrelative:06.cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407253B9-F937-4400-8310-D57ED4F636AA}|05.Coins\\05.Coins.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\10.whileloop-exercise\\05.coins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407253B9-F937-4400-8310-D57ED4F636AA}|05.Coins\\05.Coins.csproj|solutionrelative:05.coins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94CC71E-3A59-4586-944E-D96C55471BFB}|04.Walking\\04.Walking.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\10.whileloop-exercise\\04.walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94CC71E-3A59-4586-944E-D96C55471BFB}|04.Walking\\04.Walking.csproj|solutionrelative:04.walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F1FA8A-80FB-4D5F-98DB-AE8ECD966B76}|03.Vacation\\03.Vacation.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\10.whileloop-exercise\\03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F1FA8A-80FB-4D5F-98DB-AE8ECD966B76}|03.Vacation\\03.Vacation.csproj|solutionrelative:03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A3BDA6-6537-475D-953A-3AC5278C99AC}|02.ExamPreparation\\02.ExamPreparation.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\10.whileloop-exercise\\02.exampreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A3BDA6-6537-475D-953A-3AC5278C99AC}|02.ExamPreparation\\02.ExamPreparation.csproj|solutionrelative:02.exampreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5A6A23-16C7-4788-8ABC-7B7AFCCDC470}|01.OldBooks\\01.OldBooks.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\10.whileloop-exercise\\01.oldbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5A6A23-16C7-4788-8ABC-7B7AFCCDC470}|01.OldBooks\\01.OldBooks.csproj|solutionrelative:01.oldbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\07.Moving\\Program.cs",
+              "RelativeDocumentMoniker": "07.Moving\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\07.Moving\\Program.cs",
+              "RelativeToolTip": "07.Moving\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:10:15.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\06.Cake\\Program.cs",
+              "RelativeDocumentMoniker": "06.Cake\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\06.Cake\\Program.cs",
+              "RelativeToolTip": "06.Cake\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:40:17.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\05.Coins\\Program.cs",
+              "RelativeDocumentMoniker": "05.Coins\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\05.Coins\\Program.cs",
+              "RelativeToolTip": "05.Coins\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwDAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:58:19.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\04.Walking\\Program.cs",
+              "RelativeDocumentMoniker": "04.Walking\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\04.Walking\\Program.cs",
+              "RelativeToolTip": "04.Walking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:58:21.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\03.Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03.Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\03.Vacation\\Program.cs",
+              "RelativeToolTip": "03.Vacation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:13:44.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\02.ExamPreparation\\Program.cs",
+              "RelativeDocumentMoniker": "02.ExamPreparation\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\02.ExamPreparation\\Program.cs",
+              "RelativeToolTip": "02.ExamPreparation\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:15:43.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\01.OldBooks\\Program.cs",
+              "RelativeDocumentMoniker": "01.OldBooks\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\10.WhileLoop-Exercise\\01.OldBooks\\Program.cs",
+              "RelativeToolTip": "01.OldBooks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:01:19.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.exe
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.dll
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.pdb
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.dll
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\refint\12.TradeCommissions.dll
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.pdb
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\5.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\ref\12.TradeCommissions.dll

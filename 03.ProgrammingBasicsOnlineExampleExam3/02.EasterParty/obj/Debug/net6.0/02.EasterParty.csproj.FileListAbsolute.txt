@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\bin\Debug\net6.0\02.EasterParty.exe
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\bin\Debug\net6.0\02.EasterParty.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\bin\Debug\net6.0\02.EasterParty.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\bin\Debug\net6.0\02.EasterParty.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\bin\Debug\net6.0\02.EasterParty.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\02.EasterParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\02.EasterParty.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\02.EasterParty.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\02.EasterParty.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\02.EasterParty.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\refint\02.EasterParty.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\02.EasterParty.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\02.EasterParty.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\02.EasterParty\obj\Debug\net6.0\ref\02.EasterParty.dll

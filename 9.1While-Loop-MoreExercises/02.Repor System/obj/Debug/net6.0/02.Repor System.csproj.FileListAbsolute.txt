@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\bin\Debug\net6.0\02.Repor System.exe
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\bin\Debug\net6.0\02.Repor System.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\bin\Debug\net6.0\02.Repor System.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\bin\Debug\net6.0\02.Repor System.dll
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\bin\Debug\net6.0\02.Repor System.pdb
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\02.Repor System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\02.Repor System.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\02.Repor System.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\02.Repor System.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\02.Repor System.dll
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\refint\02.Repor System.dll
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\02.Repor System.pdb
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\02.Repor System.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\9.1While-Loop-MoreExercises\02.Repor System\obj\Debug\net6.0\ref\02.Repor System.dll

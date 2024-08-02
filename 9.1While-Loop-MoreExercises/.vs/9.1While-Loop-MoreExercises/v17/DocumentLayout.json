@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5269A6-E93A-481C-A7F8-40A5C0125E42}|05.AverageNumber\\05.AverageNumber.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\9.1while-loop-moreexercises\\05.averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5269A6-E93A-481C-A7F8-40A5C0125E42}|05.AverageNumber\\05.AverageNumber.csproj|solutionrelative:05.averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45EF3B4-1E89-4454-9FB9-5024D6B344BF}|04.NumbersDividedBy3WithoutReminder\\04.NumbersDividedBy3WithoutReminder.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\9.1while-loop-moreexercises\\04.numbersdividedby3withoutreminder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45EF3B4-1E89-4454-9FB9-5024D6B344BF}|04.NumbersDividedBy3WithoutReminder\\04.NumbersDividedBy3WithoutReminder.csproj|solutionrelative:04.numbersdividedby3withoutreminder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9870CB01-B76B-421B-8317-56C102B53252}|03.StreamOfLetters\\03.StreamOfLetters.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\9.1while-loop-moreexercises\\03.streamofletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9870CB01-B76B-421B-8317-56C102B53252}|03.StreamOfLetters\\03.StreamOfLetters.csproj|solutionrelative:03.streamofletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B02228-8C4D-4948-A95D-F6ACF61416B5}|02.Repor System\\02.Repor System.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\9.1while-loop-moreexercises\\02.repor system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B02228-8C4D-4948-A95D-F6ACF61416B5}|02.Repor System\\02.Repor System.csproj|solutionrelative:02.repor system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94153979-7DBD-48A6-8075-9EC5FF080AB2}|01.Dishwasher\\01.Dishwasher.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\9.1while-loop-moreexercises\\01.dishwasher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94153979-7DBD-48A6-8075-9EC5FF080AB2}|01.Dishwasher\\01.Dishwasher.csproj|solutionrelative:01.dishwasher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\05.AverageNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.AverageNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\05.AverageNumber\\Program.cs",
+              "RelativeToolTip": "05.AverageNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:19:05.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\04.NumbersDividedBy3WithoutReminder\\Program.cs",
+              "RelativeDocumentMoniker": "04.NumbersDividedBy3WithoutReminder\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\04.NumbersDividedBy3WithoutReminder\\Program.cs",
+              "RelativeToolTip": "04.NumbersDividedBy3WithoutReminder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:14:35.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\03.StreamOfLetters\\Program.cs",
+              "RelativeDocumentMoniker": "03.StreamOfLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\03.StreamOfLetters\\Program.cs",
+              "RelativeToolTip": "03.StreamOfLetters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:35:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\02.Repor System\\Program.cs",
+              "RelativeDocumentMoniker": "02.Repor System\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\02.Repor System\\Program.cs",
+              "RelativeToolTip": "02.Repor System\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:26:21.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\01.Dishwasher\\Program.cs",
+              "RelativeDocumentMoniker": "01.Dishwasher\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\9.1While-Loop-MoreExercises\\01.Dishwasher\\Program.cs",
+              "RelativeToolTip": "01.Dishwasher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:47:50.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

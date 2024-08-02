@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\bin\Debug\net6.0\05.Coins.exe
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\bin\Debug\net6.0\05.Coins.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\bin\Debug\net6.0\05.Coins.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\bin\Debug\net6.0\05.Coins.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\bin\Debug\net6.0\05.Coins.pdb
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\05.Coins.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\05.Coins.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\05.Coins.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\05.Coins.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\refint\05.Coins.dll
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\05.Coins.pdb
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\05.Coins.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\10.WhileLoop-Exercise\05.Coins\obj\Debug\net6.0\ref\05.Coins.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC690EC0-C976-4A04-A29D-7E888B4B17D9}|08.TennisRanklist\\08.TennisRanklist.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\08.forloop-exercise\\08.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC690EC0-C976-4A04-A29D-7E888B4B17D9}|08.TennisRanklist\\08.TennisRanklist.csproj|solutionrelative:08.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F57BF9C-5D96-4C9B-BD5C-A91E9B06A27D}|07.TrekkingMania\\07.TrekkingMania.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\08.forloop-exercise\\07.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F57BF9C-5D96-4C9B-BD5C-A91E9B06A27D}|07.TrekkingMania\\07.TrekkingMania.csproj|solutionrelative:07.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A72CF24-1180-49D3-8FE8-4EAF15D15815}|06.Oscars\\06.Oscars.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\08.forloop-exercise\\06.oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A72CF24-1180-49D3-8FE8-4EAF15D15815}|06.Oscars\\06.Oscars.csproj|solutionrelative:06.oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675151C5-D7BC-4955-84BA-AE9AA6523BC9}|05.Salary\\05.Salary.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\08.forloop-exercise\\05.salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675151C5-D7BC-4955-84BA-AE9AA6523BC9}|05.Salary\\05.Salary.csproj|solutionrelative:05.salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDB9D4F-F79D-482D-9710-422A1DE54600}|04.CleverLily\\04.CleverLily.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\08.forloop-exercise\\04.cleverlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDB9D4F-F79D-482D-9710-422A1DE54600}|04.CleverLily\\04.CleverLily.csproj|solutionrelative:04.cleverlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7489F8A8-64F8-4174-821B-7244F94D38D8}|03.Histogram\\03.Histogram.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\08.forloop-exercise\\03.histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7489F8A8-64F8-4174-821B-7244F94D38D8}|03.Histogram\\03.Histogram.csproj|solutionrelative:03.histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D289C98-FA6F-48FA-9040-6C627A69DA98}|02.HalfSumElement\\02.HalfSumElement.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\08.forloop-exercise\\02.halfsumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D289C98-FA6F-48FA-9040-6C627A69DA98}|02.HalfSumElement\\02.HalfSumElement.csproj|solutionrelative:02.halfsumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADBD0FE-5BD1-4E81-A437-AEF2430BDC67}|01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\08.forloop-exercise\\01.numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADBD0FE-5BD1-4E81-A437-AEF2430BDC67}|01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj|solutionrelative:01.numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\08.TennisRanklist\\Program.cs",
+              "RelativeDocumentMoniker": "08.TennisRanklist\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\08.TennisRanklist\\Program.cs",
+              "RelativeToolTip": "08.TennisRanklist\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:53:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\07.TrekkingMania\\Program.cs",
+              "RelativeDocumentMoniker": "07.TrekkingMania\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\07.TrekkingMania\\Program.cs",
+              "RelativeToolTip": "07.TrekkingMania\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:34:12.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\06.Oscars\\Program.cs",
+              "RelativeDocumentMoniker": "06.Oscars\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\06.Oscars\\Program.cs",
+              "RelativeToolTip": "06.Oscars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:22:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\05.Salary\\Program.cs",
+              "RelativeDocumentMoniker": "05.Salary\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\05.Salary\\Program.cs",
+              "RelativeToolTip": "05.Salary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:15:08.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\04.CleverLily\\Program.cs",
+              "RelativeDocumentMoniker": "04.CleverLily\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\04.CleverLily\\Program.cs",
+              "RelativeToolTip": "04.CleverLily\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:42:42.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\03.Histogram\\Program.cs",
+              "RelativeDocumentMoniker": "03.Histogram\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\03.Histogram\\Program.cs",
+              "RelativeToolTip": "03.Histogram\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:28:53.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\02.HalfSumElement\\Program.cs",
+              "RelativeDocumentMoniker": "02.HalfSumElement\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\02.HalfSumElement\\Program.cs",
+              "RelativeToolTip": "02.HalfSumElement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:17:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\01.NumbersEndingIn7\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersEndingIn7\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\08.ForLoop-Exercise\\01.NumbersEndingIn7\\Program.cs",
+              "RelativeToolTip": "01.NumbersEndingIn7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:10:36.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

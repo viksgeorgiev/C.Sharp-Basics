@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5D9930-EA4D-447C-B925-732038B87E1B}|09.SkiTrip\\09.SkiTrip.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\09.skitrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5D9930-EA4D-447C-B925-732038B87E1B}|09.SkiTrip\\09.SkiTrip.csproj|solutionrelative:09.skitrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F30C30-3D98-4646-9BAF-EE58DEEA3C0D}|08.OnTimeForTheExam\\08.OnTimeForTheExam.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\08.ontimefortheexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F30C30-3D98-4646-9BAF-EE58DEEA3C0D}|08.OnTimeForTheExam\\08.OnTimeForTheExam.csproj|solutionrelative:08.ontimefortheexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7EF864-7D69-4E8A-BB16-BD41F96F3D14}|07.HotelRoom\\07.HotelRoom.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\07.hotelroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7EF864-7D69-4E8A-BB16-BD41F96F3D14}|07.HotelRoom\\07.HotelRoom.csproj|solutionrelative:07.hotelroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185BD474-7B53-4B39-A51F-B432BD20E5E5}|06.OperationsBetweenNumbers\\06.OperationsBetweenNumbers.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\06.operationsbetweennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185BD474-7B53-4B39-A51F-B432BD20E5E5}|06.OperationsBetweenNumbers\\06.OperationsBetweenNumbers.csproj|solutionrelative:06.operationsbetweennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C649B2-0339-4619-B744-B4369CE6B62F}|05.Journey\\05.Journey.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\05.journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C649B2-0339-4619-B744-B4369CE6B62F}|05.Journey\\05.Journey.csproj|solutionrelative:05.journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3411A1E-686F-4462-8ED5-6C7581D3E07E}|04.FishingBoat\\04.FishingBoat.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\04.fishingboat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3411A1E-686F-4462-8ED5-6C7581D3E07E}|04.FishingBoat\\04.FishingBoat.csproj|solutionrelative:04.fishingboat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC08CE7-2197-4529-B75F-16AE3BF51303}|03.NewHouse\\03.NewHouse.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\03.newhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC08CE7-2197-4529-B75F-16AE3BF51303}|03.NewHouse\\03.NewHouse.csproj|solutionrelative:03.newhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660FBD8-E0FF-428D-A412-1817AFFA45E7}|02.SummerOutfit\\02.SummerOutfit.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\02.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660FBD8-E0FF-428D-A412-1817AFFA45E7}|02.SummerOutfit\\02.SummerOutfit.csproj|solutionrelative:02.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41B45BD-B694-472A-8910-F02AF9EEF1C8}|01.Cinema\\01.Cinema.csproj|c:\\users\\typhon\\documents\\pb-march-2024\\06.conditionalstatementsadvanced-exercise\\01.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41B45BD-B694-472A-8910-F02AF9EEF1C8}|01.Cinema\\01.Cinema.csproj|solutionrelative:01.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\Program.cs",
+              "RelativeDocumentMoniker": "09.SkiTrip\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\Program.cs",
+              "RelativeToolTip": "09.SkiTrip\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvzgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:23:17.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\08.OnTimeForTheExam\\Program.cs",
+              "RelativeDocumentMoniker": "08.OnTimeForTheExam\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\08.OnTimeForTheExam\\Program.cs",
+              "RelativeToolTip": "08.OnTimeForTheExam\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwv0UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:24:54.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\07.HotelRoom\\Program.cs",
+              "RelativeDocumentMoniker": "07.HotelRoom\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\07.HotelRoom\\Program.cs",
+              "RelativeToolTip": "07.HotelRoom\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:54:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\06.OperationsBetweenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "06.OperationsBetweenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\06.OperationsBetweenNumbers\\Program.cs",
+              "RelativeToolTip": "06.OperationsBetweenNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:23:04.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\05.Journey\\Program.cs",
+              "RelativeDocumentMoniker": "05.Journey\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\05.Journey\\Program.cs",
+              "RelativeToolTip": "05.Journey\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:57:38.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\04.FishingBoat\\Program.cs",
+              "RelativeDocumentMoniker": "04.FishingBoat\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\04.FishingBoat\\Program.cs",
+              "RelativeToolTip": "04.FishingBoat\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvy8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:32:18.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\Program.cs",
+              "RelativeDocumentMoniker": "03.NewHouse\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\Program.cs",
+              "RelativeToolTip": "03.NewHouse\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvzYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:15:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\02.SummerOutfit\\Program.cs",
+              "RelativeDocumentMoniker": "02.SummerOutfit\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\02.SummerOutfit\\Program.cs",
+              "RelativeToolTip": "02.SummerOutfit\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvzMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:01:55.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\01.Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "01.Cinema\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-March-2024\\06.ConditionalStatementsAdvanced-Exercise\\01.Cinema\\Program.cs",
+              "RelativeToolTip": "01.Cinema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:07:10.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

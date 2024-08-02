@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\bin\Debug\net6.0\07.FootballLeague.exe
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\bin\Debug\net6.0\07.FootballLeague.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\bin\Debug\net6.0\07.FootballLeague.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\bin\Debug\net6.0\07.FootballLeague.dll
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\bin\Debug\net6.0\07.FootballLeague.pdb
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\07.FootballLeague.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\07.FootballLeague.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\07.FootballLeague.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\07.FootballLeague.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\07.FootballLeague.dll
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\refint\07.FootballLeague.dll
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\07.FootballLeague.pdb
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\07.FootballLeague.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\7.1For-Loop-MoreExercises\07.FootballLeague\obj\Debug\net6.0\ref\07.FootballLeague.dll

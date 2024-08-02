@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.exe
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\bin\Debug\net6.0\03.PaintingEggs.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\refint\03.PaintingEggs.dll
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.pdb
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\03.PaintingEggs.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\03.ProgrammingBasicsOnlineExampleExam3\03.PaintingEggs\obj\Debug\net6.0\ref\03.PaintingEggs.dll

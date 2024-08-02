@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.exe
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.dll
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.pdb
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.dll
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\refint\01.NumbersFrom1To100.dll
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.pdb
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\ref\01.NumbersFrom1To100.dll

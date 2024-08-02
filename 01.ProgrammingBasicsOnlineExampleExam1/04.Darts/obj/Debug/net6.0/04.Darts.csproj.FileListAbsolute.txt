@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\bin\Debug\net6.0\04.Darts.exe
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\bin\Debug\net6.0\04.Darts.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\bin\Debug\net6.0\04.Darts.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\bin\Debug\net6.0\04.Darts.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\bin\Debug\net6.0\04.Darts.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\04.Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\04.Darts.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\04.Darts.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\04.Darts.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\04.Darts.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\refint\04.Darts.dll
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\04.Darts.pdb
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\04.Darts.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\01.ProgrammingBasicsOnlineExampleExam1\04.Darts\obj\Debug\net6.0\ref\04.Darts.dll

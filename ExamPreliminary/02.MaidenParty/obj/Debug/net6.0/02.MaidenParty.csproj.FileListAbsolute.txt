@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.exe
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.deps.json
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.dll
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.pdb
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.dll
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\refint\02.MaidenParty.dll
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.pdb
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-March-2024\ExamPreliminary\02.MaidenParty\obj\Debug\net6.0\ref\02.MaidenParty.dll
